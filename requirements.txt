@@ -1,0 +1,9 @@
+python_telegram_bot==13.6
+requests==2.22.0
+gTTS==2.2.3
+googlesearch_python==1.0.1
+cowsay==4.0
+password_generator==0.1.0
+PyDictionary==2.0.1
+random-password-generator
+
